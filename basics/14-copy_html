@@ -1,2 +1,2 @@
 #!/bin/bash
-mv dir1 ../*.html dir2
+mv /tmp/*.html 
