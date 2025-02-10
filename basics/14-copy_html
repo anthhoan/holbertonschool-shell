@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -i .html
+mv dir1 ../*.html dir2
