@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+x script.sh
+chmod a+x
