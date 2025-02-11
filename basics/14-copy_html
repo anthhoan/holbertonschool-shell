@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -iuR *.html /tmp/
+cp -iu ../*.html
