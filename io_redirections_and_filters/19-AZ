@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Aca | tr AZ ce
+tr ^A^Z ^c^e
