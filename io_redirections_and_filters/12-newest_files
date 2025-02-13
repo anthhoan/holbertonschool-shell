@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt --sort=name | head
+ls -l --sort=name | head
